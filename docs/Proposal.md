@@ -10,16 +10,16 @@ Objectives:
 3. Understand how to code datasets to find the data that we want to get.
 
 Planned Features:
-1. Find which feature of the software has the smallest value.
-2. Figure out which grade levels are answering the survey.
-3. Compute for the overall values of questions 1 to 6 of all the reviews combined.
+1. What is the average score for each question (q1_satisfaction to q6_overall)?
+2. Which question received the highest average rating overall?
+3. Which question received the lowest average rating overall?
 4. Show what comments replied with suggestions of improvement.
-5. Find which comments have an overall values that meets the "satisfied" level.
+5. Find which comments are satisfied with the results.
 
 Planned Inputs and Outputs:
 Inputs:
-Number Value, Grade Level, comments
+Number Values, comments, operations
 
 Outputs:
-Grade Levels, Smallest feature value, Overall values, Comments with suggestions, Comments meeting the "satisfied" level
+Lowest average rating overall, highest average rating overall, Comments with suggestions, Comments that are satisfied
 
