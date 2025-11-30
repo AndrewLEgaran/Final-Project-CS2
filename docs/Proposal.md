@@ -17,6 +17,7 @@ Planned Features:
 5. Find which comments are satisfied with the results.
 
 Planned Inputs and Outputs:
+
 Inputs:
 Number Values, comments, operations
 
