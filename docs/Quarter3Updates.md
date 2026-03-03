@@ -7,4 +7,4 @@ Kurt Ariel T. Valdevieso:
 
 
 UPDATES:
-We will be adding the feature of averaging q1-q7 scores per respondent.
+We will be adding the feature of averaging q1-q6 scores per respondent.
