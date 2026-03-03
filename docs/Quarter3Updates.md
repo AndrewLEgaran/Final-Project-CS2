@@ -1,3 +1,4 @@
+Members:
 Kaelyn Anne D. Escano:
 Andrew Lester L. Egaran:
 Psalm Nathaniel Lee:
@@ -6,8 +7,4 @@ Kurt Ariel T. Valdevieso:
 
 
 UPDATES:
-Kaelyn Anne D. Escano:
-Andrew Lester L. Egaran:
-Psalm Nathaniel Lee:
-Riley Lachish R. Rivera:
-Kurt Ariel T. Valdevieso:
+We will be adding the feature of averaging q1-q7 scores per respondent.
